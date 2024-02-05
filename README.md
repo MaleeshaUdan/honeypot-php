@@ -17,3 +17,5 @@ The script includes several key features that can be configured:
 
 # 🚀 Getting Started
 1. **Clone the Repository:** Download the script to your local machine or server.
+   `git clone https://github.com/yourusername/php-honeypot.git`
+
