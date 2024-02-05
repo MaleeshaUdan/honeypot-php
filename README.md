@@ -14,3 +14,6 @@ The script includes several key features that can be configured:
 
 - Time Zone: The script uses the server's default time zone for logging. You can specify a different time zone directly in the script using date_default_timezone_set().
 - Log File: Adjustments can be made to the $logFile variable to change the log file's location or name as desired.
+
+# 🚀 Getting Started
+1. **Clone the Repository:** Download the script to your local machine or server.
