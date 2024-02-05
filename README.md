@@ -17,5 +17,9 @@ The script includes several key features that can be configured:
 
 # 🚀 Getting Started
 1. **Clone the Repository:** Download the script to your local machine or server.
-   `git clone https://github.com/yourusername/php-honeypot.git`
+    `https://github.com/MaleeshaUdan/honeypot-php.git`
+2. **Place the Script:** Upload `index.php` and any other files to your desired directory on the server.
+3. **Adjust Permissions:** Ensure the script and log file have appropriate permissions. Writing should be enabled for the server process.
+4. **Visit the Honeypot:** Access the honeypot via your browser to see it in action, or wait for it to capture real threats.
+
 
